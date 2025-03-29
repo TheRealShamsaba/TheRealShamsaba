@@ -50,7 +50,7 @@ Currently working on:
 ---
 
 ### 📈 GitHub Stats (because why not)
-![Arian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Arian's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&theme=tokyonight)
 
 ![Arian's GitHub stats][![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=TheRealShamsaba&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
