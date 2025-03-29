@@ -44,7 +44,7 @@ Currently working on:
 ### 📫 Let’s Connect
 
 - [GitHub](https://github.com/TheRealShamsaba)  
-- [LinkedIn](#) (https://www.linkedin.com/in/arian-shamsabadi-00508a281/)  
+- [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/)  
 - Or DM me in the digital realm — I’m around
 
 ---
