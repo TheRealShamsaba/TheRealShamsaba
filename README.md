@@ -10,7 +10,6 @@ I build things that look good, work well, and sometimes even surprise people.
 I believe in solving real problems and letting my curiosity and ideas go with no limits.
 
 Currently working on:
-- 🛒 A boutique-style e-commerce site (with some fancy animations)
 - ♟️ Chess engine for my graduation project
 - 🕷️ A web crawler project that filters useful content intelligently
 - 🧠 Using AI tools to make dev life easier (or at least funnier)
