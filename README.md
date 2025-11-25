@@ -1,5 +1,5 @@
 # Hey, I'm Arian 👋  
-Multidisciplinary builder • Tech meets design • Fueled by curiosity • Vibe Coder 
+Multidisciplinary builder • Tech meets design • Fueled by curiosity 
 
 ---
 
