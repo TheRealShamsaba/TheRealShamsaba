@@ -1,70 +1,64 @@
-<h1 align="center">Hey, I'm Arian</h1>
-
-<p align="center">
-  I turn questionable ideas into surprisingly functional software.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arian-shamsabadi-00508a281/"><img src="https://img.shields.io/badge/LinkedIn-pretending_to_be_professional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/TheRealShamsaba?tab=repositories"><img src="https://img.shields.io/badge/repos-enter_at_your_own_risk-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TheRealShamsaba&style=flat-square&color=brightgreen&label=people+who+got+lost+here" alt="Profile views" />
-</p>
+# Hey, I'm Arian 👋  
+Multidisciplinary builder • Tech meets design • Fueled by curiosity 
 
 ---
 
-### About me, unfortunately
+### 🧠 Who Am I?
 
-I'm a computer engineering graduate in **Istanbul**. I enjoy building products, designing interfaces, experimenting with AI, and starting projects that definitely sounded easier in my head.
+I'm a computer engineering graduate in **Istanbul**.  
+I build things that look good, work well, and sometimes even surprise people.  
+I believe in solving real problems and letting my curiosity and ideas go with no limits.
 
-My natural habitat contains:
+Currently working on:
+- 👔 **Drip** — a personal stylist that helps people build outfits from what they already own
+- 🐉 **NightFury** — an Android wireless-signal scanner for authorized university exam proctors
+- 📚 **Morthi** — a book club and reading community with chat, shopping, and social features
+- 🧠 Using AI tools to make dev life easier (or at least funnier)
 
-- 37 open browser tabs
-- one terminal running something important
-- another terminal running something I forgot about
-- a Figma file I swear is almost done
-- coffee
-
-I like software that solves real problems, looks good, and does not require a 40-minute tutorial to understand.
-
-### Current side quests
-
-- **Drip** — teaching a computer to judge your outfits so your friends don't have to
-- **NightFury** — an Android app that scans nearby wireless signals during exams; basically tech support with detective music
-- **Morthi** — a book community platform for people who buy books and, occasionally, read them
-
-### Things I have successfully convinced computers to do
-
-| Project | Extremely serious description |
-| --- | --- |
-| [KnightVision](https://github.com/TheRealShamsaba/KnightVision) | Built a reinforcement-learning chess engine because losing to humans was not enough |
-| [Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system) | Recommends movies so you can spend 20 minutes choosing one anyway |
-| [Penguin Bot](https://github.com/TheRealShamsaba/Penguin-bot) | A voice-enabled Telegram bot that motivates you through emotional damage |
-| [Portfolio](https://github.com/TheRealShamsaba/Portfolio) | Proof that I occasionally finish the frontend |
-| [Spider](https://github.com/TheRealShamsaba/Spider) | Crawls the web, unlike me after debugging until 4 AM |
-
-### Weapons of choice
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,swift,react,nextjs,nodejs,fastapi,flask,tailwind,postgres,mysql,mongodb,redis,docker,pytorch,git&perline=9" alt="Technology stack" />
-</p>
-
-I know enough **JavaScript** to fear it, enough **Python** to automate my problems, and enough **CSS** to eventually center a div.
-
-Currently poking around with native mobile apps, recommendation systems, reinforcement learning, computer vision, and whatever looked interesting five minutes ago.
-
-### Highly scientific GitHub measurements
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Arian's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShamsaba&layout=compact&hide_border=true&theme=github_dark" alt="Arian's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-blue&hide_border=true" alt="Arian's GitHub streak" />
-</p>
+Recently built:
+- ♟️ [KnightVision](https://github.com/TheRealShamsaba/KnightVision) — a reinforcement learning chess engine built for my graduation project
+- 🐧 [Penguin Bot](https://github.com/TheRealShamsaba/Penguin-bot) — a voice-enabled Telegram bot with open-source LLMs
+- 🎬 [Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system) — a MovieLens recommendation and evaluation pipeline
 
 ---
 
-<p align="center">
-  <strong>Currently accepting good ideas, bad ideas, and pull requests.</strong>
-</p>
+### 💻 My Tech Stack
+
+- **Languages:** JavaScript / TypeScript, Python, Swift, Java, HTML, CSS
+- **Frameworks & Tools:** React, Next.js, SwiftUI, Android, Fastify, Flask, Tailwind
+- **Data & Infrastructure:** PostgreSQL, MongoDB, Redis, Docker, MinIO
+- **Extras I Tinker With:** PyTorch, Three.js, Framer Motion, recommendation systems, computer vision
+- **Always Open Tabs:** ChatGPT, DevDocs, and something playing music
+
+---
+
+### 🛠️ Side Quests & Interests
+
+- Building UIs that don’t make your eyes bleed
+- Automating stuff that shouldn’t be done manually
+- Making AI useful without turning everything into a chatbot
+- Writing cleaner code… or at least trying to
+- Blending aesthetics and logic — think design + engineering
+
+---
+
+- 🎓 I like to mix business strategy with hands-on tech
+- 🧩 I love meaningful problem-solving — like product-market fit *and* code architecture
+- 😄 I like a little humor with my stack traces (some people think it is too much, but idc)
+
+---
+
+### 📫 Let’s Connect
+
+- [GitHub](https://github.com/TheRealShamsaba)  
+- [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/)  
+- Or DM me in the digital realm — I’m around
+
+---
+
+### 📈 GitHub Stats (because why not)
+![Arian's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheRealShamsaba&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
