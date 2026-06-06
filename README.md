@@ -1,59 +1,62 @@
-# Hey, I'm Arian 👋  
-Multidisciplinary builder • Tech meets design • Fueled by curiosity 
+<h1 align="center">Arian Shamsabadi</h1>
+
+<p align="center">
+  <strong>Product-minded software engineer building useful, polished things across web, mobile, and applied AI.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arian-shamsabadi-00508a281/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/TheRealShamsaba?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TheRealShamsaba&style=flat-square&color=0e75b6" alt="Profile views" />
+</p>
 
 ---
 
-### 🧠 Who Am I?
+### What I do
 
-I'm a computer engineering student in **Istanbul**
-I build things that look good, work well, and sometimes even surprise people.  
-I believe in solving real problems and letting my curiosity and ideas go with no limits.
+I am a computer engineering graduate based in **Istanbul**, interested in the point where strong engineering, thoughtful product decisions, and visual design meet.
 
-Currently working on:
-- ♟️ Chess engine for my graduation project
-- 🕷️ A web crawler project that filters useful content intelligently
-- 🧠 Using AI tools to make dev life easier (or at least funnier)
+- Building full-stack products from the first idea to a working interface
+- Turning AI into practical product features instead of chatbot wrappers
+- Working across native mobile, modern web, backend systems, and machine learning
+- Usually improving the UX while I am supposed to be fixing something else
 
----
+### Currently building
 
-### 💻 My Tech Stack
+- **Drip** — a personal stylist spanning SwiftUI, Next.js, Fastify, PostgreSQL, object storage, and background image processing
+- **NightFury** — an Android wireless-signal scanner for authorized exam-room review, using Wi-Fi, Bluetooth, Room, and structured evidence exports
+- **Morthi** — a full-featured reading community with book clubs, real-time chat, shopping, social features, and AI-assisted workflows
 
-- **Languages:** JavaScript / TypeScript, Python, HTML, CSS, small amount of Java and C because of uni
-- **Frameworks & Tools:** React, Next.js, Tailwind, Prisma, MongoDB  
-- **Extras I Tinker With:** Three.js, Framer Motion, D1 DB, Auth0  
-- **Always Open Tabs:** ChatGPT, DevDocs
+### Selected work
 
----
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [KnightVision](https://github.com/TheRealShamsaba/KnightVision) | Reinforcement-learning chess engine with self-play, custom policy/value networks, PGN pipelines, and Stockfish evaluation | Python, PyTorch, RL |
+| [Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system) | End-to-end MovieLens recommendation pipeline with tuned KNN evaluation and a Flask interface | Python, scikit-learn, Flask |
+| [Penguin Bot](https://github.com/TheRealShamsaba/Penguin-bot) | Voice-enabled Telegram companion powered by open-source language models and Whisper | Python, Telegram, Hugging Face |
+| [Portfolio](https://github.com/TheRealShamsaba/Portfolio) | My visual playground for presenting products, experiments, and design work | React, TypeScript, Vite |
 
-### 🛠️ Side Quests & Interests
+### Toolbox
 
-- Building UIs that don’t make your eyes bleed
-- Automating stuff that shouldn’t be done manually
-- Writing cleaner code… or at least trying to
-- Blending aesthetics and logic — think design + engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,swift,react,nextjs,nodejs,fastapi,flask,tailwind,postgres,mysql,mongodb,redis,docker,pytorch,git&perline=9" alt="Technology stack" />
+</p>
 
----
+**Also exploring:** Android, SwiftUI, Three.js, Framer Motion, recommendation systems, reinforcement learning, computer vision, and product strategy.
 
-- 🎓 I like to mix business strategy with hands-on tech
-- 🧩 I love meaningful problem-solving — like product-market fit *and* code architecture
-- 😄 I like a little humor with my stack traces (some people think it is too much, but idc)
+### GitHub snapshot
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Arian's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShamsaba&layout=compact&hide_border=true&theme=github_dark" alt="Arian's top languages" />
+</p>
 
-### 📫 Let’s Connect
-
-- [GitHub](https://github.com/TheRealShamsaba)  
-- [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/)  
-- Or DM me in the digital realm — I’m around
-
----
-
-### 📈 GitHub Stats (because why not)
-![Arian's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheRealShamsaba&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-blue&hide_border=true" alt="Arian's GitHub streak" />
+</p>
 
 ---
 
-
+<p align="center">
+  <strong>Good products should work well, feel intentional, and solve something real.</strong>
+</p>
