@@ -1,50 +1,58 @@
-<h1 align="center">Arian Shamsabadi</h1>
+<h1 align="center">Hey, I'm Arian</h1>
 
 <p align="center">
-  <strong>Product-minded software engineer building useful, polished things across web, mobile, and applied AI.</strong>
+  I turn questionable ideas into surprisingly functional software.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arian-shamsabadi-00508a281/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/TheRealShamsaba?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TheRealShamsaba&style=flat-square&color=0e75b6" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/arian-shamsabadi-00508a281/"><img src="https://img.shields.io/badge/LinkedIn-pretending_to_be_professional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/TheRealShamsaba?tab=repositories"><img src="https://img.shields.io/badge/repos-enter_at_your_own_risk-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TheRealShamsaba&style=flat-square&color=brightgreen&label=people+who+got+lost+here" alt="Profile views" />
 </p>
 
 ---
 
-### What I do
+### About me, unfortunately
 
-I am a computer engineering graduate based in **Istanbul**, interested in the point where strong engineering, thoughtful product decisions, and visual design meet.
+I'm a computer engineering graduate in **Istanbul**. I enjoy building products, designing interfaces, experimenting with AI, and starting projects that definitely sounded easier in my head.
 
-- Building full-stack products from the first idea to a working interface
-- Turning AI into practical product features instead of chatbot wrappers
-- Working across native mobile, modern web, backend systems, and machine learning
-- Usually improving the UX while I am supposed to be fixing something else
+My natural habitat contains:
 
-### Currently building
+- 37 open browser tabs
+- one terminal running something important
+- another terminal running something I forgot about
+- a Figma file I swear is almost done
+- coffee
 
-- **Drip** — a personal stylist spanning SwiftUI, Next.js, Fastify, PostgreSQL, object storage, and background image processing
-- **NightFury** — an Android wireless-signal scanner for authorized exam-room review, using Wi-Fi, Bluetooth, Room, and structured evidence exports
-- **Morthi** — a full-featured reading community with book clubs, real-time chat, shopping, social features, and AI-assisted workflows
+I like software that solves real problems, looks good, and does not require a 40-minute tutorial to understand.
 
-### Selected work
+### Current side quests
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [KnightVision](https://github.com/TheRealShamsaba/KnightVision) | Reinforcement-learning chess engine with self-play, custom policy/value networks, PGN pipelines, and Stockfish evaluation | Python, PyTorch, RL |
-| [Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system) | End-to-end MovieLens recommendation pipeline with tuned KNN evaluation and a Flask interface | Python, scikit-learn, Flask |
-| [Penguin Bot](https://github.com/TheRealShamsaba/Penguin-bot) | Voice-enabled Telegram companion powered by open-source language models and Whisper | Python, Telegram, Hugging Face |
-| [Portfolio](https://github.com/TheRealShamsaba/Portfolio) | My visual playground for presenting products, experiments, and design work | React, TypeScript, Vite |
+- **Drip** — teaching a computer to judge your outfits so your friends don't have to
+- **NightFury** — an Android app that scans nearby wireless signals during exams; basically tech support with detective music
+- **Morthi** — a book community platform for people who buy books and, occasionally, read them
 
-### Toolbox
+### Things I have successfully convinced computers to do
+
+| Project | Extremely serious description |
+| --- | --- |
+| [KnightVision](https://github.com/TheRealShamsaba/KnightVision) | Built a reinforcement-learning chess engine because losing to humans was not enough |
+| [Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system) | Recommends movies so you can spend 20 minutes choosing one anyway |
+| [Penguin Bot](https://github.com/TheRealShamsaba/Penguin-bot) | A voice-enabled Telegram bot that motivates you through emotional damage |
+| [Portfolio](https://github.com/TheRealShamsaba/Portfolio) | Proof that I occasionally finish the frontend |
+| [Spider](https://github.com/TheRealShamsaba/Spider) | Crawls the web, unlike me after debugging until 4 AM |
+
+### Weapons of choice
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,swift,react,nextjs,nodejs,fastapi,flask,tailwind,postgres,mysql,mongodb,redis,docker,pytorch,git&perline=9" alt="Technology stack" />
 </p>
 
-**Also exploring:** Android, SwiftUI, Three.js, Framer Motion, recommendation systems, reinforcement learning, computer vision, and product strategy.
+I know enough **JavaScript** to fear it, enough **Python** to automate my problems, and enough **CSS** to eventually center a div.
 
-### GitHub snapshot
+Currently poking around with native mobile apps, recommendation systems, reinforcement learning, computer vision, and whatever looked interesting five minutes ago.
+
+### Highly scientific GitHub measurements
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Arian's GitHub stats" />
@@ -58,5 +66,5 @@ I am a computer engineering graduate based in **Istanbul**, interested in the po
 ---
 
 <p align="center">
-  <strong>Good products should work well, feel intentional, and solve something real.</strong>
+  <strong>Currently accepting good ideas, bad ideas, and pull requests.</strong>
 </p>
