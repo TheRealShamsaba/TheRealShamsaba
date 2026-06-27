@@ -59,6 +59,6 @@ Recently built:
 ### 📈 GitHub Stats (because why not)
 ![Arian's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheRealShamsaba&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheRealShamsaba&theme=highcontrast&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
