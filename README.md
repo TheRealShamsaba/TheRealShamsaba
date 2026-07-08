@@ -1,60 +1,54 @@
-# Hey, I'm Arian 👋  
-Multidisciplinary builder • Tech meets design • Fueled by curiosity 
+# Hey, I'm Arian 👋
+**Computer Engineer | Full-Stack Builder | AI Enthusiast**  
+Crafting seamless digital experiences at the intersection of design and engineering
 
 ---
 
-### 🧠 Who Am I?
+## 🎯 What I'm Building
 
-I'm a computer engineering graduate in **Istanbul**.  
-I build things that look good, work well, and sometimes even surprise people.  
-I believe in solving real problems and letting my curiosity and ideas go with no limits.
+### 🔴 **DRIP** — The Future of Personal Styling
+My flagship project and current focus. **Drip** is an intelligent personal stylist that empowers people to build stunning outfits from what they already own. By combining computer vision, AI, and thoughtful design, it transforms how people think about their wardrobe — sustainable, accessible, and genuinely useful.
 
-Currently working on:
-- 👔 **Drip** — a personal stylist that helps people build outfits from what they already own
-- 🐉 **NightFury** — an Android wireless-signal scanner for authorized university exam proctors
-- 📚 **Morthi** — a book club and reading community with chat, shopping, and social features
-- 🧠 Using AI tools to make dev life easier (or at least funnier)
-
-Recently built:
-- ♟️ [KnightVision](https://github.com/TheRealShamsaba/KnightVision) — a reinforcement learning chess engine built for my graduation project
-- 🐧 [Penguin Bot](https://github.com/TheRealShamsaba/Penguin-bot) — a voice-enabled Telegram bot with open-source LLMs
-- 🎬 [Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system) — a MovieLens recommendation and evaluation pipeline
+*Status: In active development | Building the future of fashion tech*
 
 ---
 
-### 💻 My Tech Stack
+## 🔧 Technical Arsenal
 
-- **Languages:** JavaScript / TypeScript, Python, Swift, Java, HTML, CSS
-- **Frameworks & Tools:** React, Next.js, SwiftUI, Android, Fastify, Flask, Tailwind
-- **Data & Infrastructure:** PostgreSQL, MongoDB, Redis, Docker, MinIO
-- **Extras I Tinker With:** PyTorch, Three.js, Framer Motion, recommendation systems, computer vision
-- **Always Open Tabs:** ChatGPT, DevDocs, and something playing music
-
----
-
-### 🛠️ Side Quests & Interests
-
-- Building UIs that don’t make your eyes bleed
-- Automating stuff that shouldn’t be done manually
-- Making AI useful without turning everything into a chatbot
-- Writing cleaner code… or at least trying to
-- Blending aesthetics and logic — think design + engineering
+**Languages:** JavaScript/TypeScript · Python · Swift · Java · HTML/CSS  
+**Frontend:** React · Next.js · SwiftUI · Tailwind · Framer Motion  
+**Backend:** Fastapi · Fastify · Node.js  
+**Data & Infrastructure:** PostgreSQL · MongoDB · Redis · Docker · MinIO  
+**AI & ML:** PyTorch · Computer Vision · Recommendation Systems · LLMs  
 
 ---
 
-- 🎓 I like to mix business strategy with hands-on tech
-- 🧩 I love meaningful problem-solving — like product-market fit *and* code architecture
-- 😄 I like a little humor with my stack traces (some people think it is too much, but idc)
+## 🏆 Recent Achievements
+
+- ♟️ **[KnightVision](https://github.com/TheRealShamsaba/KnightVision)** — Reinforcement learning chess engine (Graduation Project)
+- 🐧 **[Penguin Bot](https://github.com/TheRealShamsaba/Penguin-bot)** — Voice-enabled Telegram bot with open-source LLM integration
+- 🎬 **[Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system)** — ML pipeline for personalized recommendations
 
 ---
 
-### 📫 Let’s Connect
+## 💡 Philosophy & Approach
 
-- [GitHub](https://github.com/TheRealShamsaba)  
-- [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/)  
-- Or DM me in the digital realm — I’m around
+I believe great software requires balancing:
+- **Aesthetics & Logic** — Design matters as much as architecture
+- **Real Problems & Real Impact** — Building for users, not just portfolios
+- **Innovation & Practicality** — Shipping working solutions with style
+- **Clean Code & Ship Speed** — Not always conflicting goals
 
+*Currently exploring:* How AI can streamline development workflows without turning everything into a chatbot
+
+---
+
+## 🌐 Let's Connect
+
+📍 Based in Istanbul, Turkey  
+💼 [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/) · 💻 [GitHub](https://github.com/TheRealShamsaba)  
+📧 Always open to collaborating on interesting projects
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TheRealShamsaba&theme=highcontrast&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
