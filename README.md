@@ -46,7 +46,7 @@ I believe great software requires balancing:
 ## 🌐 Let's Connect
 
 📍 Based in Istanbul, Turkey  
-💼 [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/) · 💻 [GitHub](https://github.com/TheRealShamsaba)  
+💼 [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/)
 📧 Always open to collaborating on interesting projects
 
 ---
