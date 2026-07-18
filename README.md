@@ -62,9 +62,6 @@ I believe great software requires balancing:
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-dimmed" width="48%" />
   </a>
-  <a href="https://github.com/TheRealShamsaba">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  </a>
 </div>
 ---
 
