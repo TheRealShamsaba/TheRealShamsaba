@@ -1,25 +1,37 @@
 # Hey, I'm Arian 👋
-**Computer Engineer | Full-Stack Builder | AI Enthusiast**  
+
+**Computer Engineer | Full-Stack Builder | AI Enthusiast**
+
 Crafting seamless digital experiences at the intersection of design and engineering
 
 ---
 
 ## 🎯 What I'm Building
 
-### 🔴 **DRIP** — The Future of Personal Styling
-My flagship project and current focus. **Drip** is an intelligent personal stylist that empowers people to build stunning outfits from what they already own. By combining computer vision, AI, and [...]
+### 🔴 DRIP — The Future of Personal Styling
 
-*Status: In active development | Building the future of fashion tech*
+My flagship project and current focus. **DRIP** is an intelligent personal stylist that empowers people to build stunning outfits from what they already own. By combining computer vision, AI, and machine learning, DRIP transforms the way people think about personal style.
+
+**Status:** In active development | Building the future of fashion tech
 
 ---
 
 ## 🔧 Technical Arsenal
 
-**Languages:** JavaScript/TypeScript · Python · Swift · Java · HTML/CSS  
-**Frontend:** React · Next.js · SwiftUI · Tailwind · Framer Motion  
-**Backend:** Fastapi · Fastify · Node.js  
-**Data & Infrastructure:** PostgreSQL · MongoDB · Redis · Docker · MinIO  
-**AI & ML:** PyTorch · Computer Vision · Recommendation Systems · LLMs  
+### Languages
+JavaScript/TypeScript · Python · Swift · Java · HTML/CSS
+
+### Frontend
+React · Next.js · SwiftUI · Tailwind CSS · Framer Motion
+
+### Backend
+FastAPI · Fastify · Node.js
+
+### Data & Infrastructure
+PostgreSQL · MongoDB · Redis · Docker · MinIO
+
+### AI & ML
+PyTorch · Computer Vision · Recommendation Systems · LLMs
 
 ---
 
@@ -34,6 +46,7 @@ My flagship project and current focus. **Drip** is an intelligent personal styli
 ## 💡 Philosophy & Approach
 
 I believe great software requires balancing:
+
 - **Aesthetics & Logic** — Design matters as much as architecture
 - **Real Problems & Real Impact** — Building for users, not just portfolios
 - **Innovation & Practicality** — Shipping working solutions with style
@@ -67,6 +80,6 @@ I believe great software requires balancing:
 
 ## 🌐 Let's Connect
 
-📍 Based in Istanbul, Turkey  
-💼 [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/)
-📧 Always open to collaborating on interesting projects
+📍 **Location:** Istanbul, Turkey  
+💼 **LinkedIn:** [arian-shamsabadi-00508a281](https://www.linkedin.com/in/arian-shamsabadi-00508a281/)  
+📧 **Always open** to collaborating on interesting projects
