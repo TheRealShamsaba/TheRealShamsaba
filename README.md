@@ -7,7 +7,7 @@ Crafting seamless digital experiences at the intersection of design and engineer
 ## 🎯 What I'm Building
 
 ### 🔴 **DRIP** — The Future of Personal Styling
-My flagship project and current focus. **Drip** is an intelligent personal stylist that empowers people to build stunning outfits from what they already own. By combining computer vision, AI, and thoughtful design, it transforms how people think about their wardrobe — sustainable, accessible, and genuinely useful.
+My flagship project and current focus. **Drip** is an intelligent personal stylist that empowers people to build stunning outfits from what they already own. By combining computer vision, AI, and [...]
 
 *Status: In active development | Building the future of fashion tech*
 
@@ -43,12 +43,30 @@ I believe great software requires balancing:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-dimmed" width="48%" />
+  </a>
+  <a href="https://github.com/TheRealShamsaba">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/TheRealShamsaba">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShamsaba&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/TheRealShamsaba">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TheRealShamsaba&theme=github-dark&hide_border=true" width="48%" />
+  </a>
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 📍 Based in Istanbul, Turkey  
 💼 [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/)
 📧 Always open to collaborating on interesting projects
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-dimmed)](https://git.io/streak-stats)
