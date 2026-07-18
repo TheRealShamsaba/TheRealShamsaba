@@ -66,16 +66,6 @@ I believe great software requires balancing:
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheRealShamsaba&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/TheRealShamsaba">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShamsaba&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/TheRealShamsaba">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TheRealShamsaba&theme=github-dark&hide_border=true" width="48%" />
-  </a>
-</div>
-
 ---
 
 ## 🌐 Let's Connect
