@@ -51,4 +51,4 @@ I believe great software requires balancing:
 
 ---
 
-[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=TheRealShamsaba)](https://git.io/streak-stats))
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-dimmed)](https://git.io/streak-stats)
