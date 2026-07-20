@@ -60,10 +60,10 @@ I believe great software requires balancing:
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-dimmed" width="48%" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-dimmed" width="100%" />
   </a>
 </div>
----
+
 
 ## 🌐 Let's Connect
 
