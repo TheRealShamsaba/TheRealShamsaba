@@ -1,6 +1,6 @@
 # Hey, I'm Arian 👋
 
-**Computer Engineer | Full-Stack Builder | AI Enthusiast**
+**Computer Engineer | Full-Stack Builder**
 
 Crafting seamless digital experiences at the intersection of design and engineering
 
