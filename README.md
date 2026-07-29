@@ -1,4 +1,4 @@
-# Hey, I'm Arian 👋
+# Hey, I'm Arian 
 
 **Computer Engineer | Full-Stack Builder**
 
