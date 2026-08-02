@@ -38,7 +38,6 @@ PyTorch · Computer Vision · Recommendation Systems · LLMs
 ## 🏆 Recent Achievements
 
 - ♟️ **[KnightVision](https://github.com/TheRealShamsaba/KnightVision)** — Reinforcement learning chess engine (Graduation Project)
-- 🐧 **[Penguin Bot](https://github.com/TheRealShamsaba/Penguin-bot)** — Voice-enabled Telegram bot with open-source LLM integration
 - 🎬 **[Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system)** — ML pipeline for personalized recommendations
 
 ---
