@@ -63,6 +63,7 @@ I believe great software requires balancing:
   </a>
 </div>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TheRealShamsaba&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=TheRealShamsaba&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 
 ## 🌐 Let's Connect
 
