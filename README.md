@@ -65,7 +65,7 @@ I believe great software requires balancing:
 
 <div align="center">
   <a href="https://github.com/TheRealShamsaba">
-    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=TheRealShamsaba&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr" width="100%" />
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=TheRealShamsab&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr" width="100%" />
   </a>
 </div>
 
