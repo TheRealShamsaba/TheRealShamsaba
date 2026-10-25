@@ -1,39 +1,41 @@
-# Arian Shamsabadi
+<img src="assets/profile-light.svg#gh-light-mode-only" alt="Arian Shamsabadi — Founder / Full-Stack Developer. Istanbul. Designing, building, figuring it out." width="100%">
+<img src="assets/profile-dark.svg#gh-dark-mode-only" alt="Arian Shamsabadi — Founder / Full-Stack Developer. Istanbul. Designing, building, figuring it out." width="100%">
 
 **Founder / Full-Stack Developer · Istanbul, Türkiye**
 
-I build digital products, websites, and internal tools, with a focus on the design and engineering decisions that make them useful. My work spans web development, applied machine learning, and visual design.
+I turn questionable ideas into surprisingly functional software. Products, interfaces, applied ML—and the occasional poster.
 
-[Portfolio](https://arian-portfolio-puce.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/) · [Real Company](https://realcompanys.com/)
+[Portfolio](https://arian-portfolio-puce.vercel.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/) &nbsp; / &nbsp; [Real Company](https://realcompanys.com/)
 
-## What I'm building
+## 01 / Drip
 
-### Drip
+<a href="https://dressrightinpublic.com/"><img src="assets/drip-live.jpg" alt="The live Drip website: oversized white serif type on black, surrounded by wardrobe pieces. Check your fit before you leave the house." width="100%"></a>
 
-A personal styling product for checking an outfit, deciding whether to buy a piece, and keeping track of the clothes you own.
+An outfit check, a second opinion before buying, and a memory for the clothes you own.
 
-**Website: live. iPhone app: private beta.** The public website explains the product and offers a waitlist; the app is not publicly available in the App Store. The implementation is private.
+**Website live · iPhone app in private beta.** The public site has the product story and waitlist. The app is not publicly available in the App Store; its implementation is private.
 
-[Explore Drip](https://dressrightinpublic.com/)
+[Explore Drip ↗](https://dressrightinpublic.com/)
 
-### Real Company
+## Public experiments
 
-I build websites, apps, and internal tools through [Real Company](https://realcompanys.com/), a design and software studio. The studio site brings together our services and selected work.
+<a href="https://github.com/TheRealShamsaba/KnightVision"><img src="assets/knightvision.svg" alt="KnightVision — chess rules, neural networks, and self-play experiments." width="100%"></a>
 
-## Selected public work
+**[KnightVision](https://github.com/TheRealShamsaba/KnightVision)** — a custom rules engine, policy/value networks, and self-play experiments. Built with [BakerDmo](https://github.com/BakerDmo).
 
-| Project | What to explore |
-| --- | --- |
-| [Portfolio](https://github.com/TheRealShamsaba/Portfolio) | React and TypeScript site for engineering projects, poster work, and The Reasonable Show. [Live site](https://arian-portfolio-puce.vercel.app/). |
-| [KnightVision](https://github.com/TheRealShamsaba/KnightVision) | Chess rules engine and neural-network/self-play experiments, built with [BakerDmo](https://github.com/BakerDmo). The README includes a lightweight test command and the limits of the training setup. |
-| [Movie Recommender System](https://github.com/TheRealShamsaba/Movie-Recommender-system) | MovieLens analysis with genre similarity, collaborative filtering, and a KNN evaluation pipeline. Includes [repository-recorded benchmark results](https://github.com/TheRealShamsaba/Movie-Recommender-system/blob/main/benchmark_summary.csv). |
+[Rules tests & setup](https://github.com/TheRealShamsaba/KnightVision#quick-start-run-the-rules-tests) · [Model architecture](https://github.com/TheRealShamsaba/KnightVision/blob/main/ai/model.py)
 
-The public repositories show the implementation, setup, and current limitations of each project. They complement the product work above.
+<a href="https://github.com/TheRealShamsaba/Movie-Recommender-system"><img src="assets/movie-recommender.svg" alt="Movie Recommender System — MovieLens analysis, KNN, and repository-recorded results." width="100%"></a>
 
-## Tools in the public work
+**[Movie Recommender System](https://github.com/TheRealShamsaba/Movie-Recommender-system)** — genre similarity, collaborative filtering, and KNN evaluation on MovieLens.
 
+[Recorded benchmark CSV](https://github.com/TheRealShamsaba/Movie-Recommender-system/blob/main/benchmark_summary.csv) · [Analysis & limitations](https://github.com/TheRealShamsaba/Movie-Recommender-system#repository-recorded-results)
+
+## Beyond the repos
+
+I build websites, apps, and internal tools through **[Real Company](https://realcompanys.com/)**. I also make [posters](https://arian-portfolio-puce.vercel.app/showcase) and host The Reasonable Show.
+
+**Tools in the public work**<br>
 React · TypeScript · Vite · Tailwind CSS · Python · PyTorch · pandas · scikit-learn
 
-## Connect
-
-Find me on [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/) or explore the [portfolio](https://arian-portfolio-puce.vercel.app/).
+<sub>Design + engineering. A little humor with the stack traces.</sub>
