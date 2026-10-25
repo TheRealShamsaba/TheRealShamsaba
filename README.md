@@ -1,75 +1,39 @@
-# Hey, I'm Arian 
+# Arian Shamsabadi
 
-**Computer Engineer | Full-Stack Builder**
+**Founder / Full-Stack Developer · Istanbul, Türkiye**
 
-Crafting seamless digital experiences at the intersection of design and engineering
+I build digital products, websites, and internal tools, with a focus on the design and engineering decisions that make them useful. My work spans web development, applied machine learning, and visual design.
 
----
+[Portfolio](https://arian-portfolio-puce.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/) · [Real Company](https://realcompanys.com/)
 
-## 🎯 What I'm Building
+## What I'm building
 
-### 🔴 DRIP — The Future of Personal Styling
+### Drip
 
-My flagship project and current focus. **DRIP** is an intelligent personal stylist that empowers people to build stunning outfits from what they already own. By combining computer vision, AI, and machine learning, DRIP turns everyday wardrobe items into a smarter and more expressive styling experience.
+A personal styling product for checking an outfit, deciding whether to buy a piece, and keeping track of the clothes you own.
 
-**Status:** In active development | Building the future of fashion tech
+**Website: live. iPhone app: private beta.** The public website explains the product and offers a waitlist; the app is not publicly available in the App Store. The implementation is private.
 
----
+[Explore Drip](https://dressrightinpublic.com/)
 
-## 🔧 Technical Arsenal
+### Real Company
 
-### Languages
-JavaScript/TypeScript · Python · Swift · Java · HTML/CSS
+I build websites, apps, and internal tools through [Real Company](https://realcompanys.com/), a design and software studio. The studio site brings together our services and selected work.
 
-### Frontend
-React · Next.js · SwiftUI · Tailwind CSS · Framer Motion
+## Selected public work
 
-### Backend
-FastAPI · Fastify · Node.js
+| Project | What to explore |
+| --- | --- |
+| [Portfolio](https://github.com/TheRealShamsaba/Portfolio) | React and TypeScript site for engineering projects, poster work, and The Reasonable Show. [Live site](https://arian-portfolio-puce.vercel.app/). |
+| [KnightVision](https://github.com/TheRealShamsaba/KnightVision) | Chess rules engine and neural-network/self-play experiments, built with [BakerDmo](https://github.com/BakerDmo). The README includes a lightweight test command and the limits of the training setup. |
+| [Movie Recommender System](https://github.com/TheRealShamsaba/Movie-Recommender-system) | MovieLens analysis with genre similarity, collaborative filtering, and a KNN evaluation pipeline. Includes [repository-recorded benchmark results](https://github.com/TheRealShamsaba/Movie-Recommender-system/blob/main/benchmark_summary.csv). |
 
-### Data & Infrastructure
-PostgreSQL · MongoDB · Redis · Docker · MinIO
+The public repositories show the implementation, setup, and current limitations of each project. They complement the product work above.
 
-### AI & ML
-PyTorch · Computer Vision · Recommendation Systems · LLMs
+## Tools in the public work
 
----
+React · TypeScript · Vite · Tailwind CSS · Python · PyTorch · pandas · scikit-learn
 
-## 🏆 Recent Achievements
+## Connect
 
-- ♟️ **[KnightVision](https://github.com/TheRealShamsaba/KnightVision)** — Reinforcement learning chess engine (Graduation Project)
-- 🎬 **[Movie Recommender](https://github.com/TheRealShamsaba/Movie-Recommender-system)** — ML pipeline for personalized recommendations
-
----
-
-## 💡 Philosophy & Approach
-
-I believe great software requires balancing:
-
-- **Aesthetics & Logic** — Design matters as much as architecture
-- **Real Problems & Real Impact** — Building for users, not just portfolios
-- **Innovation & Practicality** — Shipping working solutions with style
-- **Clean Code & Ship Speed** — Not always conflicting goals
-
-*Currently exploring:* How AI can streamline development workflows without turning everything into a chatbot
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=TheRealShamsaba&theme=github-dark-dimmed" width="100%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/TheRealShamsaba">
-    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=TheRealShamsaba&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=codeSTACKr" width="100%" />
-  </a>
-</div>
-
-## 🌐 Let's Connect
-
-📍 **Location:** Istanbul, Turkey  
-💼 **LinkedIn:** (https://www.linkedin.com/in/arian-shamsabadi-00508a281/)
+Find me on [LinkedIn](https://www.linkedin.com/in/arian-shamsabadi-00508a281/) or explore the [portfolio](https://arian-portfolio-puce.vercel.app/).
