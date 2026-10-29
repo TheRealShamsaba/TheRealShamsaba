@@ -20,6 +20,13 @@ A personal styling product for checking an outfit, deciding whether to buy a pie
 
 I build websites, apps, and internal tools through [Real Company](https://realcompanys.com/), a design and software studio. The studio site brings together our services and selected work.
 
+Selected client websites:
+
+- **Delux:** a showroom website in English, Persian and Turkish, covering vehicle discovery, company information and contact. [Project case study](https://realcompanys.com/work/delux/).
+- **DGM:** a medical-equipment catalogue with Persian and English product pages, manufacturer documents and product-specific consultation. [Project case study](https://realcompanys.com/work/dgm/).
+
+Planning a business website or a redesign? Explore [website design and development](https://realcompanys.com/services/website-design-development/) or [خدمات طراحی سایت](https://realcompanys.com/fa/services/website-design-development/).
+
 ## Selected public work
 
 | Project | What to explore |
